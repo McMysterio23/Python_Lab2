@@ -25,6 +25,6 @@ def main():
 
 #per fare capire a python cosa gli sto passando da schermo mettere sempre in fondo al codice questa parte !!!!
 #nota bene se desideri includere tutte queste istruzioni in una casella main, includi negli spazi sotto ai due punti sotto alla riga
-#con l'if la dicitura main()
+#con l'if la dicitura main( ) ciaone 
 if __name__ == "__main__":
     main()
